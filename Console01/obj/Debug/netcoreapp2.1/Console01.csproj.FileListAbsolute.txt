@@ -1,0 +1,11 @@
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\bin\Debug\netcoreapp2.1\Console01.deps.json
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\bin\Debug\netcoreapp2.1\Console01.runtimeconfig.json
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\bin\Debug\netcoreapp2.1\Console01.runtimeconfig.dev.json
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\bin\Debug\netcoreapp2.1\Console01.dll
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\bin\Debug\netcoreapp2.1\Console01.pdb
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\obj\Debug\netcoreapp2.1\Console01.csprojAssemblyReference.cache
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\obj\Debug\netcoreapp2.1\Console01.csproj.CoreCompileInputs.cache
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\obj\Debug\netcoreapp2.1\Console01.AssemblyInfoInputs.cache
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\obj\Debug\netcoreapp2.1\Console01.AssemblyInfo.cs
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\obj\Debug\netcoreapp2.1\Console01.dll
+E:\Studying\ISM_Pratice\ISMCSharp\Console01\obj\Debug\netcoreapp2.1\Console01.pdb

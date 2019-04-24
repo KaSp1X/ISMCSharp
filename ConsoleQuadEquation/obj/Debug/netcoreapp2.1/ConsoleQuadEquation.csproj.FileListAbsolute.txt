@@ -1,0 +1,11 @@
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\bin\Debug\netcoreapp2.1\ConsoleQuadEquation.deps.json
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\bin\Debug\netcoreapp2.1\ConsoleQuadEquation.runtimeconfig.json
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\bin\Debug\netcoreapp2.1\ConsoleQuadEquation.runtimeconfig.dev.json
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\bin\Debug\netcoreapp2.1\ConsoleQuadEquation.dll
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\bin\Debug\netcoreapp2.1\ConsoleQuadEquation.pdb
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\obj\Debug\netcoreapp2.1\ConsoleQuadEquation.csprojAssemblyReference.cache
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\obj\Debug\netcoreapp2.1\ConsoleQuadEquation.csproj.CoreCompileInputs.cache
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\obj\Debug\netcoreapp2.1\ConsoleQuadEquation.AssemblyInfoInputs.cache
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\obj\Debug\netcoreapp2.1\ConsoleQuadEquation.AssemblyInfo.cs
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\obj\Debug\netcoreapp2.1\ConsoleQuadEquation.dll
+E:\Studying\ISM_Pratice\ISMCSharp\ConsoleQuadEquation\obj\Debug\netcoreapp2.1\ConsoleQuadEquation.pdb

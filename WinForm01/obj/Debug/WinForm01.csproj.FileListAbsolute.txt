@@ -1,0 +1,10 @@
+E:\Studying\ISM_Pratice\ISMCSharp\WinForm01\obj\Debug\WinForm01.csprojAssemblyReference.cache
+E:\Studying\ISM_Pratice\ISMCSharp\WinForm01\obj\Debug\WinForm01.Form1.resources
+E:\Studying\ISM_Pratice\ISMCSharp\WinForm01\obj\Debug\WinForm01.Properties.Resources.resources
+E:\Studying\ISM_Pratice\ISMCSharp\WinForm01\obj\Debug\WinForm01.csproj.GenerateResource.cache
+E:\Studying\ISM_Pratice\ISMCSharp\WinForm01\obj\Debug\WinForm01.csproj.CoreCompileInputs.cache
+E:\Studying\ISM_Pratice\ISMCSharp\WinForm01\bin\Debug\WinForm01.exe.config
+E:\Studying\ISM_Pratice\ISMCSharp\WinForm01\bin\Debug\WinForm01.exe
+E:\Studying\ISM_Pratice\ISMCSharp\WinForm01\bin\Debug\WinForm01.pdb
+E:\Studying\ISM_Pratice\ISMCSharp\WinForm01\obj\Debug\WinForm01.exe
+E:\Studying\ISM_Pratice\ISMCSharp\WinForm01\obj\Debug\WinForm01.pdb
