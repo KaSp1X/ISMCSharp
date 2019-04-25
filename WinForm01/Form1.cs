@@ -17,22 +17,22 @@ namespace WinForm01
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void count_Click(object sender, EventArgs e)
         {
             double a, b, x;
-            if (textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "")
+            if (textBoxA.Text == "" || textBoxB.Text == "" || textBoxX.Text == "")
             {
-                richTextBox1.AppendText("Значение введено неверно!\n");
+                richTextBoxResult.AppendText("Значение введено неверно!\n");
             }
             else
-            if(!double.TryParse(textBox1.Text, out a) || !double.TryParse(textBox2.Text, out b) || !double.TryParse(textBox3.Text, out x))
+            if(!double.TryParse(textBoxA.Text, out a) || !double.TryParse(textBoxB.Text, out b) || !double.TryParse(textBoxX.Text, out x))
             {
-                richTextBox1.AppendText("Значение введено неверно!\n");
+                richTextBoxResult.AppendText("Значение введено неверно!\n");
             }
             else
             {
                 double y = 2.4 * Math.Abs((Math.Pow(x, 2) + b) / a) + (a - b) * Math.Pow(Math.Sin(a - b), 2) + Math.Pow(10, -2) * (x - b);
-                richTextBox1.AppendText("Решение: " + y + "\n");
+                richTextBoxResult.AppendText("Решение: " + y + "\n");
             }
         }
     }

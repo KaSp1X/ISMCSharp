@@ -15,43 +15,43 @@ namespace QuadEquationWinForm
         public Form1()
         {
             InitializeComponent();
-            label5.Visible = label6.Visible = label7.Visible = label8.Visible = false;
-            textBox4.Visible = textBox5.Visible = textBox6.Visible = false;
+            labelD.Visible = Results.Visible = labelX1.Visible = labelX2.Visible = false;
+            textBoxD.Visible = textBoxX1.Visible = textBoxX2.Visible = false;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void count_Click(object sender, EventArgs e)
         {
-            label5.Visible = label6.Visible = label7.Visible = label8.Visible = false;
-            textBox4.Visible = textBox5.Visible = textBox6.Visible = false;
+            labelD.Visible = Results.Visible = labelX1.Visible = labelX2.Visible = false;
+            textBoxD.Visible = textBoxX1.Visible = textBoxX2.Visible = false;
             double a, b, c;
-            if (textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "")
+            if (textBoxA.Text == "" || textBoxB.Text == "" || textBoxC.Text == "")
             { 
             }
             else
-            if (!double.TryParse(textBox1.Text, out a) || !double.TryParse(textBox2.Text, out b) || !double.TryParse(textBox3.Text, out c))
+            if (!double.TryParse(textBoxA.Text, out a) || !double.TryParse(textBoxB.Text, out b) || !double.TryParse(textBoxC.Text, out c))
             {
             }
             else
             {
                 double D = Math.Pow(b, 2) - 4 * a * c;
-                label5.Visible = textBox4.Visible = true;
-                textBox4.Text = D.ToString();
+                labelD.Visible = textBoxD.Visible = true;
+                textBoxD.Text = D.ToString();
                 if (D < 0) MessageBox.Show("Решений нет!");
                 else
                 if (D == 0)
                 {
                     double x = -b / (2 * a);
-                    label6.Visible = label7.Visible = textBox5.Visible = true;
-                    textBox5.Text = x.ToString();
+                    Results.Visible = labelX1.Visible = textBoxX1.Visible = true;
+                    textBoxX1.Text = x.ToString();
                 }
                 else
                 {
                     double x1 = (-b + Math.Pow(D, -2)) / (2 * a);
                     double x2 = (-b - Math.Pow(D, -2)) / (2 * a);
-                    label6.Visible = label7.Visible = textBox5.Visible = true;
-                    textBox5.Text = x1.ToString();
-                    label8.Visible = textBox6.Visible = true;
-                    textBox6.Text = x2.ToString();
+                    Results.Visible = labelX1.Visible = textBoxX1.Visible = true;
+                    textBoxX1.Text = x1.ToString();
+                    labelX2.Visible = textBoxX2.Visible = true;
+                    textBoxX2.Text = x2.ToString();
                 }
             }
         }
