@@ -1,0 +1,10 @@
+E:\Studying\ISM_Pratice\ISMCSharp\Arrays2\bin\Debug\Arrays2.exe.config
+E:\Studying\ISM_Pratice\ISMCSharp\Arrays2\bin\Debug\Arrays2.exe
+E:\Studying\ISM_Pratice\ISMCSharp\Arrays2\bin\Debug\Arrays2.pdb
+E:\Studying\ISM_Pratice\ISMCSharp\Arrays2\obj\Debug\Arrays2.csprojAssemblyReference.cache
+E:\Studying\ISM_Pratice\ISMCSharp\Arrays2\obj\Debug\Arrays2.Form1.resources
+E:\Studying\ISM_Pratice\ISMCSharp\Arrays2\obj\Debug\Arrays2.Properties.Resources.resources
+E:\Studying\ISM_Pratice\ISMCSharp\Arrays2\obj\Debug\Arrays2.csproj.GenerateResource.cache
+E:\Studying\ISM_Pratice\ISMCSharp\Arrays2\obj\Debug\Arrays2.csproj.CoreCompileInputs.cache
+E:\Studying\ISM_Pratice\ISMCSharp\Arrays2\obj\Debug\Arrays2.exe
+E:\Studying\ISM_Pratice\ISMCSharp\Arrays2\obj\Debug\Arrays2.pdb
