@@ -1,0 +1,10 @@
+E:\Studying\ISM_Pratice\ISMCSharp\OOP1\bin\Debug\OOP1.exe.config
+E:\Studying\ISM_Pratice\ISMCSharp\OOP1\bin\Debug\OOP1.exe
+E:\Studying\ISM_Pratice\ISMCSharp\OOP1\bin\Debug\OOP1.pdb
+E:\Studying\ISM_Pratice\ISMCSharp\OOP1\bin\Debug\OOPLib1.dll
+E:\Studying\ISM_Pratice\ISMCSharp\OOP1\bin\Debug\OOPLib1.pdb
+E:\Studying\ISM_Pratice\ISMCSharp\OOP1\obj\Debug\OOP1.csprojAssemblyReference.cache
+E:\Studying\ISM_Pratice\ISMCSharp\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+E:\Studying\ISM_Pratice\ISMCSharp\OOP1\obj\Debug\OOP1.csproj.CopyComplete
+E:\Studying\ISM_Pratice\ISMCSharp\OOP1\obj\Debug\OOP1.exe
+E:\Studying\ISM_Pratice\ISMCSharp\OOP1\obj\Debug\OOP1.pdb
