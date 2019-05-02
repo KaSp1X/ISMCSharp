@@ -166,13 +166,13 @@ namespace OOP1
                         airplanes[j].SetFinishCity(tmpFinishCity);
 
                         tmpDate = airplanes[i].GetStartDate();
-                        tmpTime(airplanes[i].GetStartDate(), out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
+                        tmpTime(airplanes[j].GetStartDate(), out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
                         airplanes[i].SetStartDate(tmpYear, tmpMonth, tmpDay, tmpHours, tmpMinutes);
                         tmpTime(tmpDate, out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
                         airplanes[j].SetStartDate(tmpYear, tmpMonth, tmpDay, tmpHours, tmpMinutes);
 
                         tmpDate = airplanes[i].GetFinishDate();
-                        tmpTime(airplanes[i].GetFinishDate(), out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
+                        tmpTime(airplanes[j].GetFinishDate(), out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
                         airplanes[i].SetFinishDate(tmpYear, tmpMonth, tmpDay, tmpHours, tmpMinutes);
                         tmpTime(tmpDate, out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
                         airplanes[j].SetFinishDate(tmpYear, tmpMonth, tmpDay, tmpHours, tmpMinutes);
@@ -204,13 +204,13 @@ namespace OOP1
                         airplanes[j].SetFinishCity(tmpFinishCity);
 
                         tmpDate = airplanes[i].GetStartDate();
-                        tmpTime(airplanes[i].GetStartDate(), out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
+                        tmpTime(airplanes[j].GetStartDate(), out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
                         airplanes[i].SetStartDate(tmpYear, tmpMonth, tmpDay, tmpHours, tmpMinutes);
                         tmpTime(tmpDate, out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
                         airplanes[j].SetStartDate(tmpYear, tmpMonth, tmpDay, tmpHours, tmpMinutes);
 
                         tmpDate = airplanes[i].GetFinishDate();
-                        tmpTime(airplanes[i].GetFinishDate(), out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
+                        tmpTime(airplanes[j].GetFinishDate(), out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
                         airplanes[i].SetFinishDate(tmpYear, tmpMonth, tmpDay, tmpHours, tmpMinutes);
                         tmpTime(tmpDate, out tmpYear, out tmpMonth, out tmpDay, out tmpHours, out tmpMinutes);
                         airplanes[j].SetFinishDate(tmpYear, tmpMonth, tmpDay, tmpHours, tmpMinutes);
